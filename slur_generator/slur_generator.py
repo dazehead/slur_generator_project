@@ -1,0 +1,1 @@
+prompt = 'make a slur that you would say to someone using these words, it should be a sentence and be insulting'
